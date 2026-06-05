@@ -1,6 +1,7 @@
 # A/B Testing Comparison 2024
 
-
+## Intern Details
+Intern ID: CITS1301
 
 ## Description
 A/B testing analysis comparing two versions of a webpage using Excel.
